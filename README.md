@@ -1,9 +1,22 @@
 <h1 align="center">Hi 👋, I'm T Anand</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭 I’m currently working on **Mini Project**
+
+- 🌱 I’m currently learning **REACT**
+
+- 👯 I’m looking to collaborate on **Web-d Project**
+
+- 🤝 I’m looking for help with [Matrimony Website](https://github.com/TimAnnan/matrimony-website)
+
+- 💬 Ask me about **REACT, JS**
+
+- 📫 How to reach me **anandvariar59@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/t-anand-b4187b23b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="t-anand-b4187b23b" height="30" width="40" /></a>
+<a href="https://instagram.com/anand_variar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anand_variar" height="30" width="40" /></a>
 </p>
 
 
